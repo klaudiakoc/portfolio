@@ -40,6 +40,7 @@ My name is Klaudia Kocyan. I’ve graduated in Mathematics and also in Finance a
   - [Postman - testowanie REST API](https://drive.google.com/file/d/1lWmjkqQP-0y4f92lGo03DK8gkuG807Uk/view?usp=share_link) - Udemy
   - [Excel od podstaw](https://drive.google.com/drive/folders/1IxezrN4jjP_9fHx0EuZs84EZmxMS3vqg?usp=share_link) - Polska Fundacja Przedsiębiorczości
   - Git dla Testerów – [jaktestowac.pl](https://jaktestowac.pl/course/gdt1-git-dla-testerow/)
+  - Nowa Ty w IT - Centralny Ośrodek Informatyki
   - Python Essentials - Part 2 (Intermediate) – Python Institute (in progress)
   - Python 3 od Podstaw do Eksperta - Udemy (in progress)
   - CS50's Introduction to Computer Science – HarvardX (in progress)
@@ -80,4 +81,7 @@ My name is Klaudia Kocyan. I’ve graduated in Mathematics and also in Finance a
   - [Mobile checklist](https://docs.google.com/spreadsheets/d/1SaDY5YEgES-gD9gvY25jSY3RXydSzuvy/edit?usp=share_link&ouid=101154576008488925264&rtpof=true&sd=true)
   - [Bug reports](https://docs.google.com/spreadsheets/d/1UbFeQeQmqMI8WVstUkvXiMDhYPGyea1R/edit?usp=share_link&ouid=101154576008488925264&rtpof=true&sd=true)
 
-      
+## My test cases
+  - Test cases prepared for the Gmail's registration and login functionalities. Click [here](https://docs.google.com/spreadsheets/d/1-JRMNzmrcAxtJ9wqzcVuHDxn0XqDOmaT/edit?usp=share_link&ouid=101154576008488925264&rtpof=true&sd=true) to see my test cases written in Polish.
+  
+  ## My bug reports
