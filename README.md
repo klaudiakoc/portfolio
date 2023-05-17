@@ -19,9 +19,6 @@ Hello, my name is Klaudia. I am a passionate manual tester. I have always had an
 ### My bug reports
   - The examples of [bugs](https://drive.google.com/drive/folders/1IIo8k6T1jtIad_W0OAhpwXInrpKvQ76x?usp=share_link) reported by me in the Jira and Mantis systems.
 
-### My resume 
-[A website presenting my CV](), created as a result of learning HTML, CSS and Chrome DevTools. The objective of this site is to show the recruiters my resume in a more interactive version. 
-
 ## Skills
   - Knowledge of ISTQB (Foundation Level);
   - Web, desktop, mobile testing;
