@@ -5,7 +5,7 @@ Hello, my name is Klaudia. I am a passionate manual tester. I have always had an
 ## My projects
 
 ### SkateShop.pl
-[SkateShop.pl](https://skateshop.pl/main-eng.html) - an online shop testing project.
+[Skateshop.pl](https://skateshop.pl/main-eng.html) - an online shop testing project.
   - [Test plan](https://drive.google.com/file/d/1r2ttPTSP5koSG6QmLTkck4iJsXSF5OHJ/view?usp=share_link) 
   - [Test scenarios and test cases](https://docs.google.com/spreadsheets/d/1gciUto9ZBcZ2P1ZNDyEFs1Sdt4M9Nt0-/edit?usp=share_link&ouid=101154576008488925264&rtpof=true&sd=true)
   - [Functional checklist](https://docs.google.com/spreadsheets/d/1Otuwxu93zfc849n7jzr2pusdk5vW7UhD/edit?usp=share_link&ouid=101154576008488925264&rtpof=true&sd=true)
@@ -48,9 +48,9 @@ Hello, my name is Klaudia. I am a passionate manual tester. I have always had an
   - University of Economics in Katowice (10/2016 - 09/2018) – Master’s Degree - Finance and Accounting, spec. Financial Audit. 
   
 ## Courses and certificates
-  - [The Fundamentals of Software Testing](https://drive.google.com/file/d/16BWc5_uihnZxsaDVqTz-dbAVF_tY0MkX/view?usp=share_link) - QA TestLab;
+  - [The Fundamentals of Software Testing](https://drive.google.com/file/d/16BWc5_uihnZxsaDVqTz-dbAVF_tY0MkX/view?usp=share_link) - QA TestLab - a two-month software testing course (January - February 2023), which consisted of a series of seven webinars and independent work on tasks, which was checked and feedback was provided. The subject of the course included: introduction to testing, the functional, layout, mobile applicatons, web projects and games testing, software testing lifecycle, SCRUM and test design. During the course, I reported nearly 50 bugs in Mantis and Jira, developed test cases in TestLink and learned how to write a test plan.
   - [The uTest Academy](https://www.utest.com/academy) - uTest.com;
-  - [Praktyczny Kurs Testowania Oprogramowania](https://drive.google.com/file/d/16BWc5_uihnZxsaDVqTz-dbAVF_tY0MkX/view?usp=share_link) - Udemy;
+  - [Praktyczny Kurs Testowania Oprogramowania](https://drive.google.com/file/d/1akUK76MU76XnftZoxByG22K5hMQIR_gU/view?usp=share_link) - Udemy;
   - [PCEP - Certified Entry - Level Python Programmer](https://drive.google.com/file/d/1hA-LFRV9_uNofgR-e369zyyvXLWiYE3N/view?usp=share_link) - Python Institue;
   - [Python - podstawy](https://drive.google.com/drive/folders/19GqAIrQiOZhkqWiZv1qO6p3mgfLzSg1B?usp=share_link) - Polska Fundacja Przedsiębiorczości;
   - [SQL od podstaw](https://drive.google.com/drive/folders/14VQCWKKaljCuNFy-q52ZisvA66c7rCpD?usp=share_link) - Polska Fundacja Przedsiębiorczości;
@@ -69,7 +69,7 @@ Hello, my name is Klaudia. I am a passionate manual tester. I have always had an
   - ["Jak radzić sobie ze stresem w pracy."](https://drive.google.com/file/d/1s9rL3iu-9rkPsNHPmqjNB59B22zJACt4/view?usp=share_link) - Polska Fundacja Przedsiębiorczości.
   
 ## Experience
-  - [uTest testing platform](https://www.utest.com/) – status: „Proven”, ["Tester of the week" nominee](https://drive.google.com/file/d/1GC0zdwMuVAMZQMJ2KzBTiVEiMzxa3_uD/view?usp=share_link) – exploratory testing, test cases executing, mobile, web and desktop testing;
+  - [uTest testing platform](https://www.utest.com/) – ["Tester of the week" nominee](https://drive.google.com/file/d/1GC0zdwMuVAMZQMJ2KzBTiVEiMzxa3_uD/view?usp=share_link) – exploratory testing, test cases executing, mobile, web and desktop testing;
   - Financial Audit - assistant.
   
 ## Books
